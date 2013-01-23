@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sokoban</string>
+	<string name="empty_list">No Player exist, please create a new one by pressing the Menu button</string>
+	<string name="add_user">Add Player</string>
+	<string name="user_name">Player</string>
+	<string name="user_ID">Player ID</string>
+	<string name="confirm">ok</string>
+	<string name="user_delete">Delete</string>
+	<string name="user_info">View Stats</string>
+	<string name="user_edit">Edit</string>
+	<string name="restart_game">Restart</string>
+	<string name="resolve_level">Auto Resolve</string>    
+	<string name="mode_ready">Ready!</string>  
+	<string name="mode_pause">Paused</string>  
+	<string name="mode_win">Win! \n Press any key to continue.</string>  
+	<string name="menu_start">Start</string>
+    <string name="menu_skip">Skip</string>
+    <string name="menu_undo">Undo</string>
+    <string name="menu_resume">Resume</string>
+    <string name="lunar_layout_text_text"></string>
+
+</resources>
